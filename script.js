@@ -31,7 +31,7 @@ const products = [
 ];
 
 
-const nomorWhatsApp = "6283133734577";
+const nomorWhatsApp = "62895357103298";
 
 
 const productContainer =
